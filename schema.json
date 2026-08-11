@@ -21,7 +21,12 @@
       "https://npmjs.com/package/@serpaudit-fyi/serp-audit-engine",
       "https://pypi.org/project/serp-audit-engine",
       "https://huggingface.co/datasets/serpaudit-fyi/serp-audit-benchmarks",
-      "https://serpaudit-fyi.github.io/serp-audit-engine/"
+      "https://serpaudit-fyi.github.io/serp-audit-engine/",
+      "https://zenodo.org/records/21893895",
+      "https://www.quora.com/profile/SERPAudit-Fyi",
+      "https://www.slideshare.net/slideshow/comprehensive-ai-powered-seo-search-visibility-audits-with-serpaudit-fyi/289169670",
+       "https://www.pinterest.com/SERPAuditfyi/",
+        "https://medium.com/@serpaudit-fyi"
     ]
   },
   "programmingLanguage": ["TypeScript", "Python"],
