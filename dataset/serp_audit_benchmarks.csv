@@ -1,0 +1,21 @@
+id,domain,audit_type,seo_score,technical_seo_score,geo_score,ai_visibility_score,content_score,audit_coverage_score,overall_audit_index,priority_action,google_search_score,chatgpt_score,gemini_score,perplexity_score,industry,notes
+1,ecommerce-brand.com,seo-audit,88,82,84,78,90,86,85,AI Visibility,88,78,78,78,E-commerce,Full SEO audit with AI visibility gap
+2,local-restaurant.com,geo-audit,82,78,90,74,80,84,81,AI Visibility,82,74,74,74,Local Business,Strong local SEO weak AI presence
+3,saas-platform.com,technical-seo,90,88,80,82,88,86,86,GEO,90,82,82,82,SaaS,Technical SEO strong geo gaps
+4,law-firm.com,full-audit,86,82,88,76,84,86,84,AI Visibility,86,76,76,76,Legal,Professional service full audit
+5,health-clinic.com,ai-visibility,84,80,84,88,86,84,84,Technical SEO,84,88,88,88,Healthcare,High AI visibility focus
+6,fintech-startup.com,technical-seo,90,92,82,80,88,88,87,GEO,90,80,80,80,FinTech,Strong technical SEO profile
+7,travel-agency.com,content-audit,86,80,86,76,92,84,84,AI Visibility,86,76,76,76,Travel,Content strength AI gap
+8,real-estate.com,geo-audit,84,80,92,74,84,86,83,AI Visibility,84,74,74,74,Real Estate,Local search dominant
+9,digital-agency.com,full-audit,88,86,84,84,90,88,87,GEO,88,84,84,84,Marketing,Agency full visibility audit
+10,b2b-software.com,ai-visibility,86,84,78,90,88,86,85,GEO,86,90,90,90,B2B Software,AI visibility leader
+11,retailer-uk.com,seo-audit,84,80,86,76,86,84,83,AI Visibility,84,76,76,76,Retail,UK retail SEO audit
+12,consultant-firm.com,content-audit,88,82,82,78,92,86,85,AI Visibility,88,78,78,78,Consulting,Content quality audit
+13,healthcare-brand.com,full-audit,90,86,84,82,90,88,87,GEO,90,82,82,82,Healthcare,Healthcare full audit
+14,news-publisher.com,technical-seo,86,90,80,84,88,86,86,GEO,86,84,84,84,Media,News technical SEO
+15,education-platform.com,ai-visibility,84,80,82,88,86,84,84,Technical SEO,84,88,88,88,EdTech,Education AI visibility
+16,startup-brand.com,seo-audit,82,78,80,76,84,82,80,AI Visibility,82,76,76,76,Startup,Early stage SEO audit
+17,insurance-broker.com,full-audit,86,82,86,74,86,84,83,AI Visibility,86,74,74,74,Insurance,Insurance full audit
+18,hotel-chain.com,geo-audit,84,80,92,76,84,84,83,AI Visibility,84,76,76,76,Hospitality,Hotel local search
+19,software-vendor.com,technical-seo,90,92,80,82,88,88,87,GEO,90,82,82,82,Software,Vendor technical audit
+20,nonprofit-org.com,content-audit,82,78,82,78,88,82,82,Technical SEO,82,78,78,78,Nonprofit,Nonprofit content audit
