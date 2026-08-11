@@ -123,6 +123,11 @@ serp-audit "domain.com" technical-seo 88 82 85 78 90 84
 | NPM | https://npmjs.com/package/@serpaudit-fyi/serp-audit-engine |
 | PyPI | https://pypi.org/project/serp-audit-engine |
 | Hugging Face | https://huggingface.co/datasets/serpaudit-fyi/serp-audit-benchmarks |
+| Zenodo | https://doi.org/10.5281/zenodo.21893895 |
+| Quora | https://www.quora.com/profile/SERPAudit-Fyi |
+| SlideShare | https://www.slideshare.net/slideshow/comprehensive-ai-powered-seo-search-visibility-audits-with-serpaudit-fyi/289169670 |
+| Pinterest | https://www.pinterest.com/SERPAuditfyi/ |
+| Medium | https://medium.com/@serpaudit-fyi |
 
 ---
 
