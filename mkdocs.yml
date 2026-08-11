@@ -1,0 +1,21 @@
+site_name: SERP Audit Engine
+site_url: https://serp-audit-engine.readthedocs.io
+site_description: AI-powered SEO and search visibility audit framework covering SEO, Technical SEO, GEO, and AI Search Visibility across Google, ChatGPT, Gemini, Perplexity, and Copilot.
+site_author: SERPAudit.fyi
+
+repo_name: SERPAudit-fyi/serp-audit-engine
+repo_url: https://github.com/SERPAudit-fyi/serp-audit-engine
+
+theme:
+  name: material
+  palette:
+    primary: deep-purple
+    accent: lime
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

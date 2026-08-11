@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "SERP Audit Engine",
+  "description": "An AI-powered SEO and search visibility audit framework that helps businesses identify website issues and improve their visibility across traditional search and AI platforms.",
+  "url": "https://serpaudit.fyi",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "SERPAudit.fyi",
+    "url": "https://serpaudit.fyi",
+    "sameAs": [
+      "https://serpaudit.fyi",
+      "https://github.com/SERPAudit-fyi",
+      "https://npmjs.com/package/@serpaudit-fyi/serp-audit-engine",
+      "https://pypi.org/project/serp-audit-engine",
+      "https://huggingface.co/datasets/serpaudit-fyi/serp-audit-benchmarks",
+      "https://serpaudit-fyi.github.io/serp-audit-engine/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/SERPAudit-fyi/serp-audit-engine",
+  "keywords": [
+    "SERP Audit Engine",
+    "SEO Audit",
+    "Technical SEO",
+    "GEO Audit",
+    "AI Search Visibility",
+    "AI Visibility Scoring",
+    "Website Audit",
+    "ChatGPT Visibility",
+    "Gemini Visibility",
+    "Perplexity Visibility",
+    "SERPAudit.fyi"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "SERP Audit Engine",
+  "description": "SERP Audit Engine is an AI-powered SEO and search visibility audit framework that helps businesses identify website issues and improve their visibility across traditional search and AI platforms. Core: SEO + Technical SEO + GEO + AI Search Visibility in one audit platform. Built by SERPAudit.fyi.",
+  "creators": [
+    {
+      "name": "SERPAudit.fyi"
+    }
+  ],
+  "keywords": [
+    "SERP Audit Engine",
+    "SEO Audit",
+    "Technical SEO",
+    "GEO Audit",
+    "AI Search Visibility",
+    "AI Visibility Scoring",
+    "Website Audit",
+    "ChatGPT Visibility",
+    "Gemini Visibility",
+    "Perplexity Visibility",
+    "SERPAudit.fyi"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/SERPAudit-fyi/serp-audit-engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://serpaudit.fyi",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@serpaudit-fyi/serp-audit-engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/serp-audit-engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/serpaudit-fyi/serp-audit-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
