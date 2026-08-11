@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@serpaudit-fyi/serp-audit-engine)](https://npmjs.com/package/@serpaudit-fyi/serp-audit-engine)
 [![PyPI](https://img.shields.io/pypi/v/serp-audit-engine)](https://pypi.org/project/serp-audit-engine)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21893895.svg)](https://doi.org/10.5281/zenodo.21893895)
 
 SERP Audit Engine is an AI-powered SEO and search visibility audit framework that helps businesses identify website issues and improve their visibility across traditional search and AI platforms. Built by [SERPAudit.fyi](https://serpaudit.fyi).
 
@@ -120,7 +120,11 @@ SERPAudit.fyi · SERP Audit Engine · SEO Audit · Technical SEO · GEO Audit ·
 | NPM | https://npmjs.com/package/@serpaudit-fyi/serp-audit-engine |
 | PyPI | https://pypi.org/project/serp-audit-engine |
 | Hugging Face | https://huggingface.co/datasets/serpaudit-fyi/serp-audit-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21893895 |
+| Quora | https://www.quora.com/profile/SERPAudit-Fyi |
+| SlideShare | https://www.slideshare.net/slideshow/comprehensive-ai-powered-seo-search-visibility-audits-with-serpaudit-fyi/289169670 |
+| Pinterest | https://www.pinterest.com/SERPAuditfyi/ |
+| Medium | https://medium.com/@serpaudit-fyi |
 | Docs | https://serp-audit-engine.readthedocs.io |
 
 ## About SERPAudit.fyi
